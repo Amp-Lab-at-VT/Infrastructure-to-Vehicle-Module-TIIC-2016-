@@ -1,0 +1,2 @@
+# Infrastructure-to-Vehicle-Module-TIIC-2016-
+The purpose of this project is to build a device that is eligible to compete in the 2016 TI Innovation Challenge. The project will be to build a wireless device for a vehicle that transmits its location and speed to nearby enabled objects for obstacle detection and collision avoidance. Ideal applications would be bicycles, traffic cones, pedestrians, etc.
